@@ -1,3 +1,9 @@
+# 原npm包部分源码未发布，导致include属性不能使用。本项目仅为发布最新源码
+```
+npm i postcss-px-to-viewport-fixed
+```
+
+
 # postcss-px-to-viewport
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 

@@ -1,3 +1,8 @@
+# this is a fix for npm package: options include is not work
+```
+npm i postcss-px-to-viewport-fixed
+```
+
 # postcss-px-to-viewport
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
